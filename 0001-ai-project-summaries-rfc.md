@@ -1,6 +1,6 @@
 # RFC 0001: AI-Powered Project Status Summaries for the Dashboard
 
-**Author**: Ashley Rice 
+**Author**: Ashley Rice </br>
 **Date**: 2025-08-23  
 **Status**: Draft (Sample for portfolio)  
 **Reviewers**: Engineering, Product, Customer Success  
