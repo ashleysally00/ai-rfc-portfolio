@@ -78,6 +78,7 @@ Users can regenerate or edit before saving to notes.
 - Require explicit flags: “On track,” “At risk,” or “Off track” with a one-sentence explanation  
 - For safety, forbid invented data and external facts  
 - Keep outputs under 140–180 words  
+- **Example Prompt**: "Summarize project status in 140–180 words with Budget, Timeline, and Staffing sections, using provided metrics, a professional tone, and no invented data."  
 
 ---
 
@@ -94,6 +95,12 @@ Users can regenerate or edit before saving to notes.
 ## Risks
 - **User Trust**: Project managers may distrust AI outputs  
   - **Mitigation**: Make summaries editable and show source metrics  
+
+---
+
+## Alternatives Considered
+- **Manual Summaries**: Too slow and error-prone  
+- **Basic Templates**: Not flexible enough for users  
 
 ---
 
